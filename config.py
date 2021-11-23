@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = "1994538165:AAGOgwT0bvleQhHFhoKHBRXwy6yfknslMo0"
+token = "your token"
 dbFile = "data.vb"
 dbStation = "station.vb"
 dbChek = "check.vb"
